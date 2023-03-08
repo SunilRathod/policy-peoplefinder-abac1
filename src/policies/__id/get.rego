@@ -4,4 +4,4 @@ default allowed = false
 
 default visible = true
 
-default enabled = true
+default enabled = false
